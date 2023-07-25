@@ -7,11 +7,11 @@
  
   <br />
 
-  <h2 align="center">Responsive Nike Clone</h2>
+  <h2 align="center">Nike Clone</h2>
 
   In this project, I have created Responsive Nike Clone, The project is built using HTML5, CSS3 & JavaScript.
 
-  <a href="https://geeky-prashant.github.io/responsive-nike-clone/"><strong>➥ Live Demo</strong></a>
+  <a href=" https://4cpg3m.csb.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
