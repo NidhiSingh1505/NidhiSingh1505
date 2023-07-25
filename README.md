@@ -29,22 +29,6 @@ Before you begin, ensure you have met the following requirements:
 
 To run **responsive-nike-clone** locally, run this command on your git bash:
 
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/geeky-prashant/responsive-nike-clone.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/geeky-prashant/responsive-nike-clone.git
-```
-
-### Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/geekyprashant).
-
 ### License
 
 This project is **free to use** and does not contains any license.
